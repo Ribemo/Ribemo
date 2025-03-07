@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ribemo
+- 👋 Hi, I’m Riqqah
 - 👀 I’m interested in Fullstack developer
 - 🌱 I’m currently learning Javascript
 - 17 Years old
